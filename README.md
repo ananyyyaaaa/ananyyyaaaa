@@ -3,7 +3,7 @@
 <!--
 **ananyyyaaaa/ananyyyaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-👩🏻‍💻 I'm a 2nd year Computer Science Engineering student at Chitkara University, Punjab.<br/>
+👩🏻‍💻 I'm a 3rd year Computer Science Engineering student at Chitkara University, Punjab.<br/>
 🌱 I’m currently learning Data Structures and Algorithms in Cpp.<br/>
 🧠 I'm a core team member at [Open Source Chandigarh](https://github.com/Open-Source-Chandigarh)<br/>
 
