@@ -1,11 +1,16 @@
-### Hi there 👋 I am Ananya !
-
-<!--
-**ananyyyaaaa/ananyyyaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-👩🏻‍💻 I'm a 3rd year Computer Science Engineering student at Chitkara University, Punjab.<br/>
-🌱 I’m currently learning Data Structures and Algorithms.<br/>
-🧠 I'm a core team member at [Open Source Chandigarh](https://github.com/Open-Source-Chandigarh)<br/>
+# Hey there! I'm Udayan Sharma
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+<div class="container">
+  <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
+  <dotlottie-player src="https://lottie.host/09b120b3-b3cc-4c2c-9610-5274e2574e06/ZPfN7N0cKk.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay>        </dotlottie-player>
+<!--    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height ="375"/> -->
+</div>
+</body>
+</html>
 
 
 # 💻 Tech Stack:
