@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyyyaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ananyyyaaaa" /> </p>
-<img src="https://iconscout.com/illustration/female-coder-is-coding-10168086_8227157" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">" alt="bootstrap" width="40" height="40"/>
   
 - 🌟 3rd year Computer Science and Engineering student at Chitkara University, Punjab <br>
 - 🎖️ Student team Lead in Taiwan-India Joint Research Smart City Project <br>
