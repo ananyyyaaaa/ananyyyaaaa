@@ -4,11 +4,9 @@
 <head>
 </head>
 <body>
-
-[![Animation Preview](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://lottie.host/embed/09b120b3-b3cc-4c2c-9610-5274e2574e06/ZPfN7N0cKk.lottie)
-
-<!--    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height ="375"/> -->
-
+  <div class="container">
+   <img src="Animation - 1744035527270.gif" height ="375"/>
+  </div>
 </body>
 </html>
 
