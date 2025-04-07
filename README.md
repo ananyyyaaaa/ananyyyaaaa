@@ -2,11 +2,11 @@
 <h3 align="center">A passionate full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyyyaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ananyyyaaaa" /> </p>
-- 🌟 3rd year Computer Science and Engineering student at Chitkara University, Punjab
-- 🎖️ Student team Lead in Taiwan-India Joint Research Smart City Project
-- 👩🏻‍💻 Letter of Appreciation from Dean 
-- 🌴 Core team member at Open Source Chandigarh
-- 📫 How to reach me **ananya1235.sharma@gmail.com**
+- 🌟 3rd year Computer Science and Engineering student at Chitkara University, Punjab <br>
+- 🎖️ Student team Lead in Taiwan-India Joint Research Smart City Project <br>
+- 👩🏻‍💻 Letter of Appreciation from Dean <br>
+- 🌴 Core team member at Open Source Chandigarh <br>
+- 📫 How to reach me **ananya1235.sharma@gmail.com** <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
