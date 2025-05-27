@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
 <h6 align="center">Hi,
-I'm currently a Digital Transformation Intern at Formi, where I’m learning how to connect technology with customer success to help businesses grow and do better. This is the beginning of my long journey, and I am always looking out for new things to help me learn and grow both personally and professionally.
+I’m learning how to connect technology with customer success to help businesses grow and do better. This is the beginning of my long journey, and I am always looking out for new things to help me learn and grow both personally and professionally.
 
 I have experience working on a cross-country project between India and Taiwan, where I got the opportunity to be the Student Team Lead. I worked closely with both teams in India and Taiwan to ensure a smooth collaboration and drive fruitful outcomes. The experience helped me sharpen my ability to lead effectively and work smoothly across different cultures and time zones and navigate complex situations.
 
