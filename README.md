@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">Hi,
+I'm currently a Digital Transformation Intern at Formi, where I’m learning how to connect technology with customer success to help businesses grow and do better. This is the beginning of my long journey, and I am always looking out for new things to help me learn and grow both personally and professionally.
+
+I have experience working on a cross-country project between India and Taiwan, where I got the opportunity to be the Student Team Lead. I worked closely with both teams in India and Taiwan to ensure a smooth collaboration and drive fruitful outcomes. The experience helped me sharpen my ability to lead effectively and work smoothly across different cultures and time zones and navigate complex situations.
+
+I also have a passion for public speaking, and I love to express my ideas. This has led me to become a confident speaker and a strong-willed individual. I am also a big fan of reading. My favourite genres revolve around crime, suspense and thriller. They keep me hooked and help me improve my problem-solving and analytical thinking.
+
+I am deeply intrigued by the emerging technologies and how they revolutionise everyday life. I hope that my passion for technology can one day help me create a real impact on society, and I am always looking for ways to contribute to shared goals.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ananyyyaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ananyyyaaaa" />
