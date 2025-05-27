@@ -12,7 +12,7 @@ I am deeply intrigued by the emerging technologies and how they revolutionise ev
   <img src="https://komarev.com/ghpvc/?username=ananyyyaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ananyyyaaaa" />
 </p>
 
----
+
 
 ### 👩‍💻 About Me
 
