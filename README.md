@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
-<h6 align="center">Hi,
-I’m learning how to connect technology with customer success to help businesses grow and do better. This is the beginning of my long journey, and I am always looking out for new things to help me learn and grow both personally and professionally.
 
-I have experience working on a cross-country project between India and Taiwan, where I got the opportunity to be the Student Team Lead. I worked closely with both teams in India and Taiwan to ensure a smooth collaboration and drive fruitful outcomes. The experience helped me sharpen my ability to lead effectively and work smoothly across different cultures and time zones and navigate complex situations.
+<p align="center">
+  I’m learning how to connect technology with customer success to help businesses grow and do better. This is just the beginning of my journey, and I’m always eager to explore new opportunities that help me learn and grow—both personally and professionally.
+</p>
 
-I also have a passion for public speaking, and I love to express my ideas. This has led me to become a confident speaker and a strong-willed individual. I am also a big fan of reading. My favourite genres revolve around crime, suspense and thriller. They keep me hooked and help me improve my problem-solving and analytical thinking.
+<p align="center">
+  I had the incredible opportunity to lead a cross-country project between <strong>India and Taiwan</strong> as the <strong>Student Team Lead</strong>. Working across different cultures and time zones taught me how to navigate complex challenges and drive collaboration for successful outcomes.
+</p>
 
-I am deeply intrigued by the emerging technologies and how they revolutionise everyday life. I hope that my passion for technology can one day help me create a real impact on society, and I am always looking for ways to contribute to shared goals.</h6>
+<p align="center">
+  I'm also passionate about <strong>public speaking</strong> and enjoy sharing my ideas confidently. In my free time, you'll find me buried in crime, suspense, and thriller novels—they sharpen my analytical skills and keep me hooked.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ananyyyaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ananyyyaaaa" />
@@ -31,9 +35,8 @@ I am deeply intrigued by the emerging technologies and how they revolutionise ev
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/_ananyaaa_/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" >
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>  
-  </a>
   <a href="https://www.instagram.com/___ananyaaaaaaaa___/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
