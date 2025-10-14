@@ -20,7 +20,7 @@
 
 ### 👩‍💻 About Me
 
-- 🌟 Pre-final year **Computer Science & Engineering** student at **Chitkara University, Punjab**
+- 🌟 Final year **Computer Science & Engineering** student at **Chitkara University, Punjab**
 - 🧠 Student Team Lead – *Taiwan-India Joint Research Smart City Project*
 - 🎖️ Received *Letter of Appreciation* from Dean
 - 🌱 Core team member @ **Open Source Chandigarh**
